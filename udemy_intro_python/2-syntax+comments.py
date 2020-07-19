@@ -4,5 +4,6 @@ print("Olá mundo!")
 print("validando acentos ~^çë")
 
 """
-multiline #
+multiline
+comments
 """
